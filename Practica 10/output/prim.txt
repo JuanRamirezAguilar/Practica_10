@@ -1,0 +1,3 @@
+Arcos y costos del árbol abarcador de costo mínimo
+
+Vértice Vértice Costo 
